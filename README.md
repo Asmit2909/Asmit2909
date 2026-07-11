@@ -1,7 +1,6 @@
-# Hi there, I'm Asmit Raj 👋
 
 <p align="center">
-  <i>Computer Science Student • Systems Programming • Cybersecurity • Machine Learning</i>
+  <img src="GitHub_Hero_Banner.png" alt="Asmit Raj — systems, security, ML" width="100%" />
 </p>
 
 ---

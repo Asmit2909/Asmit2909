@@ -1,66 +1,54 @@
 # Hi there, I'm Asmit Raj 👋
 
 <p align="center">
-  <i>Computer Science Student • AI Enthusiast • Cybersecurity • Systems Programming • Open Source</i>
+  <i>Computer Science Student • Systems Programming • Cybersecurity • Machine Learning</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building intelligent, secure, and high-performance software. I enjoy exploring the intersection of Artificial Intelligence, Cybersecurity, and Systems Programming to solve real-world challenges.
+```bash
+$ whoami
+CS undergrad who likes working close to the metal —
+kernels, packets, and the ML models that watch them.
+```
 
-I'm particularly interested in:
+I enjoy building things at the intersection of **systems programming, security, and machine learning** — the lower in the stack, the better.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🔐 Cybersecurity
-* 🐧 Linux & Systems Programming
-* 🌐 High-Performance Networking
-* 📖 Research & Open Source
+* 🐧 Linux internals & kernel programming
+* 🔐 Network & application security
+* 🤖 Machine learning for threat detection
+* ⚡ High-performance networking
+* 📖 Research & open source
 
 ---
 
 ## 🚀 Current Focus
 
-* Building AI-powered security solutions
-* Developing high-performance networking applications
-* Exploring Linux internals and modern systems programming
-* Contributing to open-source projects
-* Conducting research in AI and Cybersecurity
+* eBPF and in-kernel packet processing (XDP, TC, LSM)
+* ML-driven anomaly and attack detection
+* Multi-agent AI systems
+* Reading more kernel code than is probably healthy
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,bash" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,bash" />
 </p>
 
-### Frameworks & Tools
-
+### Systems & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,docker,git,github,linux,postgres,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
-### Currently Exploring
-
+### ML & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,react,firebase,gcp" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-* 🔐 AI-powered security systems
-* 🤖 Machine Learning applications
-* 🌐 High-performance networking solutions
-* 📚 Research-oriented software
-* 💻 Full-stack development projects
-
-> *Check out my repositories to learn more.*
 
 ---
 
@@ -73,12 +61,12 @@ I'm particularly interested in:
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/Asmit2909">GitHub</a> •
-  <a href="https://www.linkedin.com/in/visionary-asmit/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/asmitraj29/">LinkedIn</a> •
+  <a href="mailto:asmitrajcse@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
+  Thanks for visiting! ⭐ Feel free to explore my repositories.
 </p>
